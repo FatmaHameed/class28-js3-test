@@ -1,1 +1,15 @@
 /* Put your custom CSS here */
+#container p {
+  color: grey;
+}
+#post {
+  width: 50%;
+  padding: 5px;
+}
+#post div {
+  width: 80%;
+}
+#post img {
+  width: 80%;
+  margin-top: 5px;
+}
